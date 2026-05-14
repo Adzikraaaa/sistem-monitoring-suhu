@@ -1,0 +1,8 @@
+[package]
+name = "sistem_monitoring_suhu"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sistem_monitoring_suhu"
+path = "src/main.rs"
